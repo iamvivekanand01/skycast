@@ -88,10 +88,9 @@ Feel free to use and modify it.
 
 ---
 
-## 🔗 Links (update later)
-
-- **Live App**: _Coming Soon_
-- **GitHub Repo**: _Coming Soon_
+🔗 Links  
+Live App: [https://skycast-sand.vercel.app](https://skycast-sand.vercel.app)  
+GitHub Repo: [https://github.com/iamvivekanand01/skycast](https://github.com/iamvivekanand01/skycast)
 
 ---
 
